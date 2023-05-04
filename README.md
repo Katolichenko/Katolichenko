@@ -1,5 +1,8 @@
 ### Hi there 👋
+🌱 I’m currently learning Basics of DevOps and Kubernetes
 
+
+🔭 Now I work as a mentor on the IT support course from Google and Software Tester
 <!--
 **Katolichenko/Katolichenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
